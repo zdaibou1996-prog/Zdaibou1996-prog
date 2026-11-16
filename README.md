@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Zeinabou Daibou!
-How do I Want to introduce myself
 
 <!-- how do I want to introduce myself
 **zdaibou1996-prog/Zdaibou1996-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
